@@ -15,8 +15,6 @@
 - **HTML**: For the structure of the landing page.
 - **CSS**: For styling and layout.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-- **PHP**: For server-side scripting and dynamic content.
-- **MySQL**: For database management and storage.
 
 ## Getting Started
 
