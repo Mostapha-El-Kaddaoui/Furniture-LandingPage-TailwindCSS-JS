@@ -13,7 +13,7 @@
 ## Technologies Used
 
 - **HTML**: For the structure of the landing page.
-- **CSS**: For styling and layout.
+- **PHP**: For Backend.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
 ## Getting Started
