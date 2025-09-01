@@ -23,11 +23,10 @@
 - A web server that can run PHP (e.g., XAMPP, MAMP).
 - A modern web browser (e.g., Chrome, Firefox).
 
-### Installation
+### Screenshot
+![landing page](https://cdn.dribbble.com/userupload/44727210/file/79dbf48c36033bcad3078232da621606.png?resize=1024x4974&vertical=center)
 
-1. Clone the repository or download the project files.
-2. Place the project folder in your web server's document root (e.g., `htdocs` for XAMPP).
-3. Start your web server.
-4. Open a web browser and navigate to `http://localhost/your-project-folder-name`.
+---
+Copyright © 2025, Tous droits réservés pour ELKADDI-Solutions
 
 
